@@ -1,5 +1,5 @@
 # FRONT
-## [Title] Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform
+## Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform
 
 🎉 **Accepted to ICML 2026!** 
 > This repository contains the official PyTorch implementation of the paper *"Breaking the Scale Barrier: One-Shot Knowledge Transfer via Frequency Transform"*, accepted at the International Conference on Machine Learning (ICML) 2026.
